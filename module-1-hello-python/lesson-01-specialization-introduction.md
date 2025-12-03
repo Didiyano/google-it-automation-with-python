@@ -1,6 +1,4 @@
-## 🐍 Module 1 – Lesson 1
-
-## Specialization Introduction
+## 🐍 Module 1 – Lesson 1 Specialization Introduction
 
 ## ✨ Overview
 
@@ -110,3 +108,4 @@ Apply everything you've learned in a real-world automation project — and uploa
 - You’ll learn practical skills used in real IT environments
 
 This lesson sets the foundation for your learning journey — and the rest of the specialization builds on these ideas.
+
