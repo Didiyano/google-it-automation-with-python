@@ -1,13 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <h1 align="center">🐍 Google IT Automation with Python — Notes & Journey</h1>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Coursera-0056D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialization-Google%20IT%20Automation%20with%20Python-34A853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-In%20Progress-FFB300?style=for-the-badge" />
+  <h1 align="center">🐍 Google IT Automation with Python - Notes & Journey</h1>
 </p>
 
 ---
@@ -18,10 +11,12 @@ This repository contains my personal notes, summaries, and practice files while 
 🎓 **Google IT Automation with Python Specialization** on Coursera.
 
 All notes here are written in my own words to help me:
-• Understand the lessons better  
-• Learn at my own pace  
-• Build a simple documentation habit  
-• Create something I can look back on anytime  
+- Understand the lessons better  
+- Learn at my own pace  
+- Build a simple documentation habit  
+- Create something I can look back on anytime
+
+I’m documenting everything here in a simple, honest way so I can track my progress and improve as I go.
 
 ---
 
@@ -109,3 +104,4 @@ google-it-automation-with-python/
 ## ✨ Notes
 
 This repository is mainly for learning, personal reference, and tracking my progress throughout the course.
+
