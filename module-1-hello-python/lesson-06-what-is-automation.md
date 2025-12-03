@@ -1,11 +1,10 @@
 ## 🐍 Module 1 – Lesson 06 What Is Automation?
 
----
-
 ## 🌟 Understanding Everyday Automation
 
-- We use automation more often than we realize. Scheduled bill payments, self-checkout machines, and even a coffee maker that brews on its own are examples of automation in daily life.
-- Automation means replacing a manual step with something that happens automatically, without someone having to trigger it each time.
+We use automation more often than we realize. Scheduled bill payments, self-checkout machines, and even a coffee maker that brews on its own are examples of automation in daily life.
+
+Automation means replacing a manual step with something that happens automatically, without someone having to trigger it each time.
 
 ---
 
@@ -40,3 +39,4 @@
 - It can reduce mistakes, save time, and make work more consistent.
 - Later in the course, you’ll learn how to recognize when automation makes sense and how to apply it properly.
 - With practice, knowing when to automate will become second nature.
+
