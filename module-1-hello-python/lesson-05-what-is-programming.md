@@ -1,6 +1,4 @@
-## 🌼 Module 1 – Lesson 05
-
-## What Is a Program?
+## 🐍 Module 1 – Lesson 05 What Is a Program?
 
 ---
 
@@ -57,3 +55,4 @@
 - You’ll start learning Python as a scripting language.
 - The course will guide you through Python syntax and how each instruction works.
 - Before writing your first script, the next lesson explains what automation is and why it’s useful.
+
