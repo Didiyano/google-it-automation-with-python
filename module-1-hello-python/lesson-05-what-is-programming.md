@@ -1,7 +1,5 @@
 ## 🐍 Module 1 – Lesson 05 What Is a Program?
 
----
-
 ## 🌟 Understanding the Idea of a Program
 
 - A program is like a recipe that tells your computer exactly what to do.
@@ -55,4 +53,5 @@
 - You’ll start learning Python as a scripting language.
 - The course will guide you through Python syntax and how each instruction works.
 - Before writing your first script, the next lesson explains what automation is and why it’s useful.
+
 
