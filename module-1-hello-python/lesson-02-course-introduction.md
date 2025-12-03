@@ -1,6 +1,5 @@
-## 🐍 Module 1 – Lesson 2
+## 🐍 Module 1 – Lesson 2 Course Introduction
 
-## Course Introduction
 ## ✨ Overview
 
 This lesson introduces what the course is about and why programming especially Python is such an important skill in IT.
@@ -119,3 +118,4 @@ Learning programming is a process, not a race.
 This course is designed to support beginners and build confidence
 
 You’re about to learn a skill that can take your career to an entirely new level — and this lesson is the perfect starting point.
+
