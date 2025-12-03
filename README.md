@@ -50,6 +50,17 @@ google-it-automation-with-python/
 │   └── lesson-06-what-is-automation.md
 │   └── lesson-07-uses-for-automation.md
 │   └── lesson-08-getting-computers-to-work-for-you.md
+│   └── lesson-09-what-is-python.md
+│   └── lesson-10-python-resources.md
+│   └── lesson-11-note-on-syntac-and-code-blocks.md
+│   └── lesson-12-why-python-relevant-in-it.md
+│   └── lesson-13-other-languages.md
+│   └── lesson-14-studyguide-intro-to-python.md
+│   └── lesson-15-hello-world.md
+│   └── lesson-16-getting-info-from-user.md
+│   └── lesson-17-python-can-be-your-calculator.md
+│   └── lesson-18-studyguide-first-programming-concepts.md
+│   └── lesson-19-code-editors-and-ide-overview.md
 │   
 ├── module-2-using-python-to-interact-with-os/
 ├── module-3-git-and-github/
@@ -116,6 +127,7 @@ This repo is meant for:
 💼 Portfolio
 
 If you’re reading this and also taking the same course — good luck & have fun coding! 🐍✨
+
 
 
 
