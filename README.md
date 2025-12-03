@@ -10,7 +10,7 @@
 This repository contains my personal notes, summaries, and practice files while I complete the  
 🎓 **Google IT Automation with Python Specialization** on Coursera.
 
-All notes here are written in my own words to help me:
+All notes are documented here to help me:
 - Understand the lessons better  
 - Learn at my own pace  
 - Build a simple documentation habit  
@@ -104,4 +104,5 @@ google-it-automation-with-python/
 ## ✨ Notes
 
 This repository is mainly for learning, personal reference, and tracking my progress throughout the course.
+
 
