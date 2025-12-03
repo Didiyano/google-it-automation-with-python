@@ -1,6 +1,4 @@
-## 🐍 Module 1 – Lesson 3
-
-## Welcome to the Certificate Program
+## 🐍 Module 1 – Lesson 3 Welcome to the Program
 
 ## ✨ Overview
 
@@ -45,4 +43,5 @@ And most importantly, it’s okay to struggle sometimes. Everyone moves at their
 The message from Google is simple: you are not alone in this journey. There is support available, the community is here to help, and this program was built to guide learners step by step. With patience and consistency, you’ll be able to complete the specialization and earn a credential you can be proud of.
 
 This lesson is a reminder that you're starting something valuable — a path that can open new opportunities in your career.
+
 
