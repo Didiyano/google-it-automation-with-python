@@ -82,7 +82,6 @@ A common way to remember this is PEMDAS.
 If you want more practice or explanations, here are useful topics to explore:
 
 [**Built-in Functions**](https://docs.python.org/3/library/functions.html)
-
 A list of all the functions included in Python.
 
 
@@ -91,7 +90,6 @@ A list of all reserved words and what each one means.
 
 
 [**Arithmetic Operators in Python**](https://flexiple.com/python/arithmetic-operators-in-python)
-
 Examples showing how each operator works.
 
 ---
