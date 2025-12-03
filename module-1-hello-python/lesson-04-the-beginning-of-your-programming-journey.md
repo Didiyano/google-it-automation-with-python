@@ -1,6 +1,4 @@
-## 🐍 Module 1 – Lesson 04
-
-## Starting Your Python Journey
+## 🐍 Module 1 – Lesson 04 Starting Your Python Journey
 
 ## ✨ Overview
 
@@ -40,6 +38,3 @@ It explains what programming is and helps you get comfortable with the basics be
 - Every programmer once started without knowing what Python was.
 - You don’t have to be perfect — you only need to be willing to learn.
 - This lesson is your first step toward understanding how programming works.
-
----
-
