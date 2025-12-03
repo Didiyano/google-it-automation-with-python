@@ -43,8 +43,14 @@ google-it-automation-with-python/
 │
 ├── module-1-hello-python/
 │   ├── lesson-01-specialization-introduction.md
-│   └── lesson-02-... (coming soon)
-│
+│   └── lesson-02-course-intoduction.md
+│   └── lesson-03-get-started-with-certificate.md
+│   └── lesson-04-the-beginning-of-your-programming-journey.md
+│   └── lesson-05-what-is-programming.md
+│   └── lesson-06-what-is-automation.md
+│   └── lesson-07-uses-for-automation.md
+│   └── lesson-08-getting-computers-to-work-for-you.md
+│   
 ├── module-2-using-python-to-interact-with-os/
 ├── module-3-git-and-github/
 ├── module-4-troubleshooting-and-debugging/
@@ -103,6 +109,13 @@ google-it-automation-with-python/
 
 ## ✨ Notes
 
-This repository is mainly for learning, personal reference, and tracking my progress throughout the course.
+This repo is meant for:
+
+📖 Learning
+🔁 Revision
+💼 Portfolio
+
+If you’re reading this and also taking the same course — good luck & have fun coding! 🐍✨
+
 
 
