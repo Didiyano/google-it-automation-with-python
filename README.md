@@ -7,13 +7,15 @@
 
 ## ✨ About This Repo
 
-This repository contains my personal notes, summaries, and practice files while I complete the  
+This repository contains my personal notes, summaries, and practice files while I complete the
 🎓 **Google IT Automation with Python Specialization** on Coursera.
 
+I'm taking this course under the **Gemilang 3.0 – Cohort 24 (Sept 2025 – Jan 2026)** program.
+
 All notes are documented here to help me:
-- Understand the lessons better  
-- Learn at my own pace  
-- Build a simple documentation habit  
+- Understand the lessons better
+- Learn at my own pace
+- Build a simple documentation habit
 - Create something I can look back on anytime
 
 I’m documenting everything here in a simple, honest way so I can track my progress and improve as I go.
@@ -127,6 +129,7 @@ This repo is meant for:
 💼 Portfolio
 
 If you’re reading this and also taking the same course — good luck & have fun coding! 🐍✨
+
 
 
 
