@@ -77,21 +77,26 @@ Languages built for one operating system.
 Example: PowerShell for Windows, Bash for Linux.
 
 **Client-side scripting language**
+
 Runs in the user’s web browser.
 Example: JavaScript.
 
 **Machine language**
+
 The lowest level of computer language.
 Uses 1s and 0s to communicate directly with hardware.
 
 **Cross-platform language**
+
 A language that works across multiple systems.
 Python is one of them.
 
 **Object-oriented programming language**
+
 A language built around “objects” with properties and behaviors.
 
 **Python interpreter**
+
 The program that reads your Python code and runs it.
 
 ---
