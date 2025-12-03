@@ -72,7 +72,9 @@ Both print the same result, but the way you write it is different.
 
 ## 📘 Key Terms to Remember
 
-**Platform-specific / OS-specific scripting language**  Languages built for one operating system.
+**Platform-specific / OS-specific scripting language**  
+
+Languages built for one operating system.
 Example: PowerShell for Windows, Bash for Linux.
 
 **Client-side scripting language**
