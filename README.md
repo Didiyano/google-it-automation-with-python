@@ -44,7 +44,8 @@ google-it-automation-with-python/
 ├── README.md
 │
 ├── module-1-hello-python/
-│   ├── lesson-01-specialization-introduction.md
+│   ├── glossary-module-1.md
+│   └── lesson-01-specialization-introduction.md
 │   └── lesson-02-course-intoduction.md
 │   └── lesson-03-get-started-with-certificate.md
 │   └── lesson-04-the-beginning-of-your-programming-journey.md
@@ -63,8 +64,16 @@ google-it-automation-with-python/
 │   └── lesson-17-python-can-be-your-calculator.md
 │   └── lesson-18-studyguide-first-programming-concepts.md
 │   └── lesson-19-code-editors-and-ide-overview.md
+│   └── lesson-20-review-use-the-command-line.md
+│   └── lesson-21-review-jupyterlab-andjupyter-notebooks.md
+│   └── lesson-22-jupyterlab-andjupyter-notebooks.md
+│   └── lesson-23-review-use-colab.md
+│   └── lesson-24-use-colab.md
+│   └── lesson-25-review-use-vs-code.md
+│   └── lesson-26-use-vs-code.md
+│   └── lesson-27-more-on-ides-and-code-editors.md
 │   
-├── module-2-using-python-to-interact-with-os/
+├── module-2-basic-python-syntax/
 ├── module-3-git-and-github/
 ├── module-4-troubleshooting-and-debugging/
 ├── module-5-automation-at-scale/
@@ -129,6 +138,7 @@ This repo is meant for:
 💼 Portfolio
 
 If you’re reading this and also taking the same course — good luck & have fun coding! 🐍✨
+
 
 
 
